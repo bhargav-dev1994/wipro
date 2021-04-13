@@ -20,6 +20,7 @@
 java_dist=""
 default_java_dir="/usr/lib/jvm"
 java_dir="$default_java_dir"
+java
 
 function usage() {
     echo ""
